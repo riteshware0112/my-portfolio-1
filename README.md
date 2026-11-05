@@ -1,68 +1,43 @@
-# My Personal Portfolio Website
 
-## About My Project
+# Styled Portfolio Website
 
-This is my first Personal Portfolio Website created using HTML5.
+## Project Overview
+A professional and responsive portfolio website
+developed using HTML5 and CSS3.
 
-The purpose of this project is to showcase my personal information, skills, projects and contact details.
+## Objectives
+- Learn CSS styling.
+- Understand CSS selectors.
+- Apply the CSS box model.
+- Use Flexbox and CSS Grid.
+- Create responsive layouts.
+- Implement hover effects.
 
 ## Technologies Used
-
 - HTML5
+- CSS3
+- Google Fonts
 - Visual Studio Code
 
-## Website Sections
+## CSS Concepts Implemented
+1. Element, class and ID selectors.
+2. Pseudo-classes and pseudo-elements.
+3. Colors and backgrounds.
+4. Margin and padding.
+5. CSS box model.
+6. Flexbox and Grid.
+7. Positioning.
+8. Media queries.
+9. Hover effects and transitions.
+10. Custom fonts and CSS variables.
 
-1. About Me
-2. My Skills
-3. My Projects
-4. Contact Me
-
-## Features
-
-- Simple navigation menu
-- Personal introduction
-- Skills list
-- Project section
-- Images with alternative text
-- Contact form
-- Internal navigation links
-- Semantic HTML elements
-
-## HTML Concepts Used
-
-- HTML document structure
-- Headings and paragraphs
-- Links and images
-- Lists
-- Forms and input fields
-- HTML attributes
-- Semantic HTML tags
-
-## Project Structure
-
-personal-portfolio/
- 
-- index.html
-- README.md
-- images/
-  - profile.jpg
-  - project1.jpg
-
-## How to Run This Project
-
-1. Download or clone this repository.
-2. Open the project folder in Visual Studio Code.
+## Installation
+1. Download the project folder.
+2. Open it in Visual Studio Code.
 3. Open index.html in your browser.
-4. Explore the portfolio website.
-
-## Author
-
-Your Name
+4. Test the website on desktop and mobile.
 
 ## Conclusion
-
-This project helped me understand the basics of HTML5
-and how to create a simple personal portfolio website.
-
-Thank You!
+This project demonstrates the practical
+implementation of CSS styling and responsive
+web design using modern CSS techniques.
